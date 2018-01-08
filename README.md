@@ -12,11 +12,11 @@ It's another react native navigation library -- still in beta version --
 ## Installation
 
   ```bash
-  yarn add react-navigation
+  yarn add react-native-swipe-navigation
   ```
 
   or
 
   ```bash
-  npm install --save react-navigation
+  npm install --save react-native-swipe-navigation
   ```
