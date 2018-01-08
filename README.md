@@ -11,8 +11,6 @@ It's another react native navigation library -- still in beta version --
 
 ## Installation
 
-Since the library is a JS-based solution, to install the latest version of react-navigation you only need to run:
-
   ```bash
   yarn add react-navigation
   ```
