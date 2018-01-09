@@ -26,6 +26,8 @@ npm install --save react-native-swipe-navigation
 
 If we want to implement this navigation style
 
+[Check the Demo](https://snack.expo.io/rk933wfVz)
+
 ![](./design.png)
 ![](./giphy2.gif)
 ![](./giphy3.gif)
@@ -67,7 +69,7 @@ const Navigator = SwipeNavigator({
   Chat: {
     screen: Chat,
     type: 'over',
-    color: '#fbb464', // this property will make an overlay effect 
+    color: '#fbb464', // this property will make an overlay effect
   },
 
   Profile: {
