@@ -67,6 +67,7 @@ const Navigator = SwipeNavigator({
   Chat: {
     screen: Chat,
     type: 'over',
+    color: '#fbb464', // this property will make an overlay effect 
   },
 
   Profile: {
